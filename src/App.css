@@ -1,0 +1,210 @@
+
+h1{
+  text-align: center;
+  padding: 1rem;
+}
+h2{
+  text-align: center;
+  padding: 1rem;
+}
+/*para darle color al fondo del menu*/
+.bg-marino{
+  background-color: #17202A;
+  
+  }
+  .root{
+    background-color: #F0F3F4;
+  }
+
+.logosCabecera{
+  display: flex;
+  justify-content: space-evenly;
+
+}
+  .CarritoCompras{
+
+    display: block;
+    width: 40%;
+   margin: 1rem auto;
+  }
+ 
+
+  .contadorCarrito label{
+   display: block;
+   text-align: center;
+   font-size: 2rem;
+
+  }
+  .contadorCarrito button{
+   display: inline-block;
+    width: 5rem;
+    height: 2rem;
+    margin: auto auto;
+    border-radius: 0.4rem;
+    border: none;
+   }
+   .contadorCarrito button:hover{
+     border: 1px solid red;
+   }
+  .contadorCarrito{
+    display: flex;
+    justify-content: center;
+    margin: 1rem;
+  }
+  .BotonItemCount{
+    text-align: center;
+    margin: 1rem;
+  }
+ 
+  .BotonFinalizarSeguir button{
+    margin: 1rem;
+    padding: 0.5rem;
+    border: none;
+  }
+  .BotonFinalizarSeguir button:hover{
+    border: 1px solid red;
+  }
+  .cardJuegos{
+    display: grid;
+    width: 80%;
+    margin: 0 auto;
+  }
+  @media(min-width: 630px) {
+      
+    .cardJuegos{
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      width: 80%;
+      margin: 0 auto;
+    }
+  }
+  .cardJuego{
+    margin: 1rem;
+  }
+  .cardNombre{
+    text-align: center;
+    margin: 0 auto;
+  }
+  
+  .detalleJuegos{
+    text-align: center;
+  }
+  .imagenDetalle{
+    width: 50%;
+  }
+  .detalleJuegos p{
+    margin: 1rem;
+    line-height: rem;
+  }
+  .cardJuegoDetalle{
+    margin: 1rem auto;
+  }
+  .tabla{
+    width: 60%;
+  }
+  .tabla img{
+    padding: 0.6rem;
+  }
+  .tabla button{
+   margin: auto 0.5rem;
+  }
+  .tabla th{
+    width: 30%;
+   
+  }
+  
+  .carrito h4{
+    
+    margin: 3rem auto;
+    background-color: #38873e;
+    padding: 1.2rem;
+    border-radius: 0.5rem;
+    color: white;
+  }
+ .detallesCarrito{
+   display: grid;
+   margin: 1rem auto;
+ }
+ .detallesCarrito p{
+  margin: auto auto;
+}
+ .detallesCarrito img{ 
+ width: 70%;
+ display: block;
+ margin: auto auto;
+}
+.carrito{
+  margin: 2rem auto;
+  width: 90%;
+}
+.carritoLogo{
+  display: flex;
+}
+.eliminar{
+  background-color: rgb(228, 86, 86);
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 0.4rem;
+ 
+}
+.volverGaleria{
+  background-color: #17202A;
+  padding: 0.5rem 1rem;
+  color: white;
+  border-radius: 0.4rem;
+  
+}
+.volverGaleria2{
+  background-color: #38873e;
+  padding: 0.5rem 1rem;
+  color: white;
+  border-radius: 0.4rem;
+}
+
+
+.botonesCarrito {
+width: 90%;
+}
+.categoriasMenu{
+  display: flex;
+  justify-content: center;
+}
+
+h3{
+  position: absolute;
+  display: inline-block;
+  font-size: 1.5rem;
+  background-color: white;
+  padding: 0.2rem;
+  border-radius: 1rem;
+  color: black;
+  margin: 0 auto;
+  
+  
+}
+.validarMail{
+  color: red;
+  font-size: 1.5rem;
+  padding: 1rem;
+}
+.finalizarCompra{
+  margin: 1rem;
+}
+.footer{
+  padding: 0.6rem;
+  background-color: #17202A;
+  color: white;
+  text-align: center;
+  position: absolute;
+  font-size: 0.9rem;
+  width: 100%;
+  
+}
+form{
+  display: grid;
+  width: 90%;
+  margin: 3rem auto;
+  
+}
+
+  
