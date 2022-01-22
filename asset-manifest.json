@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/gameStoreReact/static/css/main.0951c830.chunk.css",
+    "main.js": "/gameStoreReact/static/js/main.0122e637.chunk.js",
+    "main.js.map": "/gameStoreReact/static/js/main.0122e637.chunk.js.map",
+    "runtime-main.js": "/gameStoreReact/static/js/runtime-main.bce6dcc4.js",
+    "runtime-main.js.map": "/gameStoreReact/static/js/runtime-main.bce6dcc4.js.map",
+    "static/css/2.818011ed.chunk.css": "/gameStoreReact/static/css/2.818011ed.chunk.css",
+    "static/js/2.6bce8349.chunk.js": "/gameStoreReact/static/js/2.6bce8349.chunk.js",
+    "static/js/2.6bce8349.chunk.js.map": "/gameStoreReact/static/js/2.6bce8349.chunk.js.map",
+    "static/js/3.1e3262a8.chunk.js": "/gameStoreReact/static/js/3.1e3262a8.chunk.js",
+    "static/js/3.1e3262a8.chunk.js.map": "/gameStoreReact/static/js/3.1e3262a8.chunk.js.map",
+    "index.html": "/gameStoreReact/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/gameStoreReact/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.0951c830.chunk.css.map": "/gameStoreReact/static/css/main.0951c830.chunk.css.map",
+    "static/js/2.6bce8349.chunk.js.LICENSE.txt": "/gameStoreReact/static/js/2.6bce8349.chunk.js.LICENSE.txt",
+    "static/media/carrito2.f8320755.png": "/gameStoreReact/static/media/carrito2.f8320755.png",
+    "static/media/facebook.a5def58d.png": "/gameStoreReact/static/media/facebook.a5def58d.png",
+    "static/media/gorjeo.89498832.png": "/gameStoreReact/static/media/gorjeo.89498832.png",
+    "static/media/instagram.1792ff30.png": "/gameStoreReact/static/media/instagram.1792ff30.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bce6dcc4.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.6bce8349.chunk.js",
+    "static/css/main.0951c830.chunk.css",
+    "static/js/main.0122e637.chunk.js"
+  ]
+}
